@@ -3,6 +3,8 @@ I coded a simulation to compare how much time a group of Roomba-like robots will
 
 I built an abstract class (Robot), and then from there built 2 more child classes of Robot: Standard Robot whose walk can be predicted, and Random Walk Robot whose walk is more random. 
 
+The main file is 'Robot Vacuum Cleaner.ipynb' which can be viewed directly on browser, the ps2.py will require IDE (such as Spyder) to open. 
+
 Simulation Details
 Here are additional details about the simulation model. Read these carefully.
 
